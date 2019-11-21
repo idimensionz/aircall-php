@@ -1,5 +1,8 @@
 Changes
 =========
+1.0.1
+
+ - Add options to AircallCalls->getCalls() call.
 
 1.0.0
 

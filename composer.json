@@ -1,9 +1,13 @@
 {
-    "name": "antoinelemaire/aircall-php",
+    "name": "idimensionz/aircall-php",
     "description": "Aircall API client built on top of Guzzle 6",
     "keywords": ["aircall", "aircall.io", "api", "guzzle"],
     "license": "Apache Version 2",
     "authors": [
+        {
+            "name": "iDimensionz - Jim Mullen",
+            "homepage": "https://idimensionz.com"
+        },
         {
             "name": "AntoineLemaire",
             "homepage": "https://github.com/AntoineLemaire"
